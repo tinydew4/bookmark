@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% for bookmark in site.data.bookmarks %}
+{% if bookmark.url == page.permalink %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ bookmark.title | escape }}</h1>
+  </header>
+  {% for group in bookmark.groups %}
+  <header class="post-header">
+    <h1 class="post-content h3" itemprop="name headline">{{ group.title | escape }}</h1>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {% for item in group.items  %}
+      <p><a href="{{ item.url | escape }}">{{ item.title | escape }}</a>{% if item.desc %} - {{ item.desc }}{% endif %}</p>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</article>
+
+{% endif %}
+{% endfor %}

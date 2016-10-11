@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "웹개발"
+date:   2016-10-11 11:13:35 +0900
+categories: webdev
+---
+
+### Reference
+
+* [HTTP/2](https://http2.github.io/)
+* [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes?visit_id=1-636117517350199986-3123924951&rd=1)
+* [robots.txt 사양](https://developers.google.com/webmasters/control-crawl-index/docs/robots_txt?hl=ko)
+* [OpenGL ES 2.0 for the Web](https://www.khronos.org/webgl/)
+* [W3Schools](http://www.w3schools.com/)
+
+### AMP (Accelerated Mobile Pages)
+
+* [AMP Project](https://www.ampproject.org/)
+
+### Compatible
+
+* [Can I use...](http://caniuse.com/)
+
+### CSS
+
+* [CSS3 Info](http://www.css3.info/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [SASS](http://sass-lang.com/)
+
+### Design
+
+* [CSS Zen Garden](http://www.csszengarden.com/)
+* [Dribble](https://dribbble.com/)
+
+### JavaScript
+
+* [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [jQuery](http://jquery.com/)
+* [jQuery UI](http://jqueryui.com/)
+* [AngularJS](https://angularjs.org/)
+* [KnockoutJS](http://knockoutjs.com/)
+* [ReactiveX](http://reactivex.io/)
+* [Zepto.js](http://zeptojs.com/) - jQuery-compatible API
+
+### Markup
+
+* [Haml](http://haml.info/)
+* [HTML 5 Demos](http://html5demos.com/)
+* [HTML 5 Templates](https://freehtml5templates.com/)
+* [HTML 5 기반 게임](http://neozest.com/entry/GamesUsingHTML5)
+
+### Node.js
+
+* [NPM](https://www.npmjs.com/)
+* [KeystoneJS - CMS](http://keystonejs.com/)
+
+### Security
+
+* [OWASP](https://www.owasp.org/index.php/Main_Page)
+
+### UX/UI
+
+* [Primer](http://primercss.io/)
+* [Octicons](https://octicons.github.com/)
+* [Topcoat](http://topcoat.io/)
+* [Material design](https://material.google.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [부트스트랩](http://bootstrapk.com/)
+* [Jssor - Image Slider](http://www.jssor.com/)
+* [AX5UI - Bootstrap jQuery Plugins](http://ax5.io/)
+* [Polymer](https://www.polymer-project.org/1.0/)
+* [X-Tag](http://x-tag.github.io/)
+* [fe.javascript](https://github.com/nhnent/fe.javascript)
+
+### PHP
+
+* [PHP - The Right Way](http://modernpug.github.io/php-the-right-way/)
+* [PHP Framework Interop Group](http://www.php-fig.org/)
+* [Template_](http://www.xtac.net/)
+* [Code Igniter 한국 사용자 포럼](http://codeigniter-kr.org/)
+* [Laravel 한국 사용자 모임](https://www.laravel.co.kr/)
+* [장고 걸스 튜토리얼](https://tutorial.djangogirls.org/ko/)
+
+### Tool
+
+* [HTML5 Validator](https://html5.validator.nu/)
+* [CSS Button Generator](http://www.cssbuttongenerator.com/)
+* [소스 암호화 툴](http://innocentblack.tistory.com/entry/%EC%86%8C%EC%8A%A4-%EC%95%94%ED%98%B8%ED%99%94-%ED%88%B4)
+* [HTML/text/JavaScript Escaping/Encoding Script](http://scriptasylum.com/tutorials/encode-decode.html)
+* [Troy - Responsive web tester](http://troy.labs.daum.net/)
+* [Acid Tests - The Web Standards Project](http://www.acidtests.org/)
+* [Amaya - W3C's Editor](https://www.w3.org/Amaya/)
+* [findmebyIP](http://fmbip.com/)
+* [Let's Encrypt](https://letsencrypt.org/)
+* [SRI Hash Generator](https://report-uri.io/home/sri_hash)
+
+### Misc.
+
+* [HTA and WSC Examples](http://www.robvanderwoude.com/htaexamples.php)
+

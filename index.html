@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Bookmarks</h1>
+  <ul class="post-list">
+    {% for bookmark in site.data.bookmarks %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ bookmark.url | prepend: site.baseurl }}">{{ bookmark.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS 구독</a></p>
+</div>
