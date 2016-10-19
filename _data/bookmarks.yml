@@ -374,3 +374,31 @@
     items:
     - title: "HTA and WSC Examples"
       url: "http://www.robvanderwoude.com/htaexamples.php"
+
+- title: "Store"
+  url: "/store/"
+  groups:
+  - title: "Game"
+    items:
+    - title: "Humble Bundle"
+      url: "https://www.humblebundle.com/"
+    - title: "Indiegala"
+      url: "https://www.indiegala.com/"
+  - title: "책"
+    items:
+    - title: "노란북"
+      url: "http://www.noranbook.net/"
+    - title: "대신서적"
+      url: "http://dicibook.com/"
+  - title: "컴퓨터"
+    items:
+    - title: "피씨기어"
+      url: "http://www.pcgear.co.kr/"
+    - title: "LEOPOLD"
+      url: "http://leopold.co.kr/"
+    - title: "리더스키"
+      url: "http://leaderskey.com/"
+  - title: "중고"
+    items:
+    - title: "전시몰"
+      url: "http://www.vosang.com/juncmall/"
