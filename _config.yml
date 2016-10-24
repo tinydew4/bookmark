@@ -1,6 +1,7 @@
 title: Tinydew4
 author: Hur jung-ju
 email: tinydew4@gmail.com
+lang: ko
 description: > # this means to ignore newlines until "baseurl:"
   개인 북마크.
 baseurl: "/bookmark"
