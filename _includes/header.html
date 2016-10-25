@@ -10,7 +10,7 @@
         </svg>
       </span>
       <div class="trigger">
-{% for page in site.pages %}{% if page.title %}        <a class="page-link" href="{{ page.url | relative_url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
+{% for page in site.pages %}{% if page.title and page.shortcut == true %}        <a class="page-link" href="{{ page.url | relative_url | prepend: site.baseurl }}">{{ page.title | escape }}</a>
 {% endif %}{% endfor %}
       </div>
     </nav>

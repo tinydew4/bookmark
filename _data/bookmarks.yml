@@ -308,6 +308,9 @@ webdev:
     desc: "jQuery-compatible API"
   - title: "CreateJS"
     url: "http://www.createjs.com/"
+  - title: "stuff by kangax"
+    url: "http://kangax.github.io/"
+    desc: "JavaScript 관련 개인 프로젝트"
 - title: "Markup"
   items:
   - title: "Haml"
@@ -546,3 +549,14 @@ management:
     url: "https://rogerdudler.github.io/git-guide/index.ko.html"
   - title: "Git 브랜치 배우기"
     url: "http://learnbranch.urigit.com/"
+
+ai:
+- title: "Book"
+  items:
+  - title: "Deep Learning"
+    url: "http://www.deeplearningbook.org/"
+    desc: "An MIT Press book"
+- title: "NLP"
+  items:
+  - title: "은전한닢 프로젝트"
+    url: "http://eunjeon.blogspot.kr/"
