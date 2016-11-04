@@ -173,6 +173,10 @@ language:
     url: "http://www.dongyangtv.com/video/video_view.asp?menu_1=tvEtc&menu_2=tvEtc_Step1&goods_code=t141"
 
 law:
+- title: "기본"
+  items:
+  - title: "민법"
+    url: "http://law.go.kr/%EB%B2%95%EB%A0%B9/%EB%AF%BC%EB%B2%95"
 - title: "근로"
   items:
   - title: "근로기준법"
